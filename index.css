@@ -1,0 +1,11 @@
+.collection-header {
+  background-image: url("/pictures/workpic2.jpg");
+  color: white;
+}
+.collection {
+  color: darkslateblue;
+}
+.collapsible-header {
+  background-image: url("/pictures/skillbg2.jpg");
+  color: white;
+}
